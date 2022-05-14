@@ -1,0 +1,10 @@
+body{
+    background-size: cover; 
+    font-family: 'Macondo', cursive;
+}
+.btn-warning{
+    width:100%;
+    bottom:0;
+    line-height: 3;
+    margin:0;
+}
